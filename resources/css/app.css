@@ -1,0 +1,23 @@
+.bg-purple {
+    background-color: #6f42c1; /* Cor roxa */
+}
+
+.btn-purple {
+    background-color: #6f42c1;
+    color: #fff;
+}
+
+.btn-purple:hover {
+    background-color: #6f42c1;
+    color: #fff;
+}
+
+.btn-outline-purple {
+    border-color: #6f42c1;
+    color: #6f42c1;
+}
+
+.btn-outline-purple:hover {
+    background-color: #6f42c1;
+    color: #fff;
+}
