@@ -68,9 +68,9 @@ O projeto segue a estrutura padrão do Laravel 11. Aqui estão os principais dir
 Ao tentar excluir uma tarefa, uma confirmação é exibida para evitar exclusões acidentais.
 
 # ✅ Melhorias Futuras
-Adicionar paginação na listagem de tarefas.
-Implementar upload de arquivos relacionados às tarefas.
-Melhorar a interface com componentes dinâmicos (ex.: Vue.js).
+- Adicionar paginação na listagem de tarefas.
+- Implementar upload de arquivos relacionados às tarefas.
+- Melhorar a interface com componentes dinâmicos (ex.: Vue.js).
 
 # 📄 Licença
 Este projeto está sob a licença MIT. Consulte o arquivo LICENSE para mais detalhes.
