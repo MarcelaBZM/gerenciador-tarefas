@@ -75,4 +75,5 @@ Ao tentar excluir uma tarefa, uma confirmação é exibida para evitar exclusõe
 # 📄 Licença
 Este projeto está sob a licença MIT. Consulte o arquivo LICENSE para mais detalhes.
 
-# 👨‍💻 Desenvolvido por: Marcela Bezerra de Medeiros | Lanna Maria Ibiapina da Silva Mesquita | Maria Lauriane do Nascimento Galeno | Pamela Roberto da Silva
+# 👨‍💻 Desenvolvido por: 
+Marcela Bezerra de Medeiros | Lanna Maria Ibiapina da Silva Mesquita | Maria Lauriane do Nascimento Galeno | Pamela Roberto da Silva
