@@ -35,22 +35,33 @@ O projeto segue a estrutura padrão do Laravel 11. Aqui estão os principais dir
    git clone https://github.com/seu-usuario/gerenciador-tarefas.git
    cd gerenciador-tarefas
 2. **Instale as dependências:**
-    composer install
+    ```bash
+   composer install
    
 3. **Crie o arquivo .env e configure o banco de dados:**
-    cp .env.example .env
+    ```bash
+   cp .env.example .env
+
 **Edite o .env com suas credenciais do MySQL:**
+
     DB_DATABASE=laravel
     DB_USERNAME=root
     DB_PASSWORD=sua_senha
 
 4. **Gere a chave da aplicação:**
+    ```bash
    php artisan key:generate
+   
 5. **Execute as migrações:**
+   ``` bash
    php artisan migrate
-6.**Inicie o servidor local:**
-   php artisan serve
+
+6. **Inicie o servidor local:**
+    ```bash
+   php artisan migrate
+   
 7. **Acesse o projeto no navegador:**
+    ```
    http://127.0.0.1:8000
    
 # 🗑️ Confirmação de Exclusão
